@@ -18,7 +18,8 @@ If you find this repo useful, please cite our paper
 @article{li2022soteriafl,
   title={{SoteriaFL}: A unified framework for private federated learning with communication compression},
   author={Li, Zhize and Zhao, Haoyu and Li, Boyue and Chi, Yuejie},
-  journal={arXiv preprint arXiv:2206.09888},
+  journal={Advances in Neural Information Processing Systems},
+  volume = {35},
   year={2022}
 }
 ```
